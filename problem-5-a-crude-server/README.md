@@ -1,9 +1,9 @@
 ## Setup Instructions
 
 Prerequisite:
-1. Change the working directory to Problem5-A-Crude_Server:
+1. Change the working directory to problem-5-a-crude-server:
 ```bash
-cd .\Problem5-A-Crude_Server\
+cd .\problem-5-a-crude-server\
 ```
 
 2. Ensure that Docker is running

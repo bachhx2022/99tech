@@ -1,9 +1,9 @@
 ## Setup Instructions
 
 Prerequisite:
-1. Change the working directory to Problem-4-Three-ways-to-sum-to-n:
+1. Change the working directory to problem-4-three-ways-to-sum-to-n:
 ```bash
-cd .\Problem-4-Three-ways-to-sum-to-n\
+cd .\problem-4-three-ways-to-sum-to-n\
 ```
 
 ### 1. Install Dependencies
