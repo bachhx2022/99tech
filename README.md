@@ -1,1 +1,1 @@
-# 99tech
+Please refer to the README.md file located within each problem.
